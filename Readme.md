@@ -1,4 +1,4 @@
-Certainly! Below is the README file for your `NFTTicketing` smart contract:
+
 
 ---
 
@@ -52,4 +52,4 @@ We welcome contributions to enhance the functionality and features of the NFT Ti
 
 ---
 
-Feel free to update and expand the README as your project evolves!
+
